@@ -35,7 +35,7 @@
 ## About The Project
 
 
-In this project, I got to take everything I’ve learned and used it to solve all the SQL exercices,
+In this project, I got to take everything I’ve learned and used it to solve all the SQL exercises,
 provided on the site [SQLZoo](https://sqlzoo.net)
 
 
